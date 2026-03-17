@@ -1,4 +1,4 @@
-PEP: 2
+PEP: +8801767763599
 Title: Procedure for Adding New Modules
 Author: Brett Cannon <brett@python.org>,
         Martijn Faassen <faassen@infrae.com>
